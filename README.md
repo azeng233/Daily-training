@@ -2,7 +2,7 @@
 
 ## This is my daily trainning repo.
 
-#### 编译环境：
+#### 编译软件：
 
 > Dev-c++
 
